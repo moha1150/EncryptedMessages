@@ -8,6 +8,9 @@ The code creates a window with a text area, an entry field and a button. It also
 The following imports are used in this code:
 
 from tkinter import *: imports all classes, constants and functions from the tkinter module.
+
 from tkinter import messagebox: imports the messagebox class from the tkinter module, which is used to display message boxes.
+
 import base64: imports the base64 module, which provides functions for base64 encoding and decoding.
+
 It's important to note that this code is not intended for production use and it does not provide a high level of security. It is intended as a demonstration of basic concepts of GUI development and encryption techniques.
